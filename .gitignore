@@ -1,0 +1,16 @@
+# Local Claude settings (not shared)
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
